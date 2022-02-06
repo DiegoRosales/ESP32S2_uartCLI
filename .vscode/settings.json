@@ -1,0 +1,9 @@
+{
+    "idf.adapterTargetName": "esp32s2",
+    "files.associations": {
+        "freertos.h": "c",
+        "esp32_uart_driver.h": "c",
+        "stdlib.h": "c",
+        "stddef.h": "c"
+    }
+}

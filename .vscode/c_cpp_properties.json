@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "ESP32",
+            "includePath": [
+                "${workspaceFolder}/main/**",
+                "C:\\Espressif\\frameworks\\esp-idf-v4.4\\components\\**",
+                "C:\\Espressif\\tools\\xtensa-esp32s2-elf\\esp-2021r2-patch2-8.4.0\\xtensa-esp32s2-elf\\xtensa-esp32s2-elf\\include\\**",
+                "C:\\Espressif\\tools\\xtensa-esp32s2-elf\\esp-2021r2-patch2-8.4.0\\xtensa-esp32s2-elf\\lib\\gcc\\xtensa-esp32s2-elf\\8.4.0\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "ESP_PLATFORM"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x86"
+        }
+    ],
+    "version": 4
+}
